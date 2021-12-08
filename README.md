@@ -1,3 +1,3 @@
 # projeto-final-soulcode
 
-Projeto Final
+Projeto final do curso Engenharia de Dados, na SoulCode Academy.
